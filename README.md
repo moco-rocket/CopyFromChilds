@@ -27,7 +27,7 @@
 1. 移動先の親フォルダに入ります
   ```cd ~/01```
 1. このbatファイルを実行します
-  ```~/CopyFromChilds/CopyFromChilds.cat```
+  ```~/CopyFromChilds/CopyFromChilds.bat```
 
 ## 注意
 - 問答無用で下位の階層のファイルをすべて親フォルダに移動するので，移動させたくないファイルがあるフォルダで**絶対に実行しないでください**
